@@ -1,2 +1,2 @@
 # simple_shell
-collaboration project on github
+collaboration project between kz-prince and 
